@@ -154,8 +154,6 @@ function validarResposta() {
   }
 
   pergunta = pergunta + 1;
-  console.log(pontos)
-  console.log(pergunta)
 }
 
 function finalizar() {
